@@ -35,15 +35,11 @@ The oscillator works on the principle of **LC resonance** and **positive feedbac
 
 📐 Frequency of oscillation:
 
-\[
-f = \frac{1}{2\pi \sqrt{L \cdot C_{eq}}}
-\]
+f = 1 / (2π √(L × Ceq))
 
 where:
 
-\[
-C_{eq} = \frac{C1 \cdot C2}{C1 + C2}
-\]
+Ceq = (C1 × C2) / (C1 + C2)
 
 ---
 
